@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../LES-BASES-JS"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../register"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "home"
+  }
+}
